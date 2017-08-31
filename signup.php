@@ -29,7 +29,11 @@
 		<div class="col-md-4 col-md-offset-4">
 			<input type="password" class="form-control" name="pwd" placeholder="Password">
 		</div>
-		</br></br></br>    
+		</br></br></br> 
+                <div class="col-md-4 col-md-offset-4">
+			<input type="password" class="form-control" name="cpwd" placeholder="ConfirmPassword">
+		</div>
+		</br></br></br> 
 		<div class="col-md-4 col-md-offset-4">                    
 		<button type="submit" class="btn btn-info" name="submit">Sign up</button>
 		</div>
